@@ -26,10 +26,14 @@ Ideas:
 -   we will seek for sponsorship in order to create quality events
 -   all atendees should be registered in order to properly plan the meetup
 -   organize a few talks; those can be random or later focused on a certain topic
+-   have a discussion
+-   have a workshop
+-   have an non-tech interview
 -   collect the data about atendees that are willing to be listed and publish it
 -   the summary should list the people's data, GitHub, LinkedIn, email, etc.
 -   the summary should list the people open to work
--   the summary should list sponsors currently hiring and open positions.
+-   the summary should list sponsors currently hiring and open positions
+-   create an outstanding merch and award the most active members.
 
 ## Sponsorship 🎗️
 
@@ -40,5 +44,11 @@ Organization can be sponsored with the money, of course, but it can be sponsored
 In the return, sponsors should be showcased as the supporters, and we should advertise their current open positions. Anyone applying for a job ad listed in the organization's page MUST get a response after applying and explanation in case of a rejection.
 
 Everyone deserves a proper treatment and candidate's effort for the mutual benefit should be appreciated! We value good manners!
+
+## Atendees Registration 🎫
+
+All meetup atendees should be registered in order to attend the meetup. The idea behind this is to have a list of people coming in order to properly plan the meeting agenda.
+
+We should also track the list of the people shown at the meetup so we know who is trustworthy and who should we whitelist in case of a greater attendance demand.
 
 🍀
