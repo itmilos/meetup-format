@@ -37,6 +37,8 @@ The organization is open for sponsorship. We'll use all the resources we get to 
 
 Organization can be sponsored with the money, of course, but it can be sponsored with offices for the meetups, advertisement material, services, food or anything necessary or benefitial for the organization.
 
-In the return, sponsors should be showcased as the supporters, and we should advertise their current open positions. Anyone applying for a job ad listed in the organization's page MUST get a response after applying and explanation in case of rejection.
+In the return, sponsors should be showcased as the supporters, and we should advertise their current open positions. Anyone applying for a job ad listed in the organization's page MUST get a response after applying and explanation in case of a rejection.
+
+Everyone deserves a proper treatment and candidate's effort for the mutual benefit should be appreciated! We value good manners!
 
 🍀
