@@ -30,3 +30,13 @@ Ideas:
 -   the summary should list the people's data, GitHub, LinkedIn, email, etc.
 -   the summary should list the people open to work
 -   the summary should list sponsors currently hiring and open positions.
+
+## Sponsorship 🎗️
+
+The organization is open for sponsorship. We'll use all the resources we get to enable proper functioning and enjoyable experience.
+
+Organization can be sponsored with the money, of course, but it can be sponsored with offices for the meetups, advertisement material, services, food or anything necessary or benefitial for the organization.
+
+In the return, sponsors should be showcased as the supporters, and we should advertise their current open positions. Anyone applying for a job ad listed in the organization's page MUST get a response after applying and explanation in case of rejection.
+
+🍀
